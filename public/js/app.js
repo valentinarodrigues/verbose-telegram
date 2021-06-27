@@ -1,0 +1,1 @@
+console.log('This is static js file. NOTE this will be executed on the client machine')
